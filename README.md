@@ -12,6 +12,7 @@ Java.
 Hooray Health. 
 The Hooray Health app allows patients to conveniently find the nearest location. Each location features hours of operation, services available and contact information.
 The Hooray Health app allows patients to quickly and conveniently find the nearest location. Each location features hours of operation, services available and contact information. Patients can also compare local pharmacies and get free coupons to save on their prescriptions.
+Play Store Link: https://play.google.com/store/apps/details?id=com.hoorayhealthcare.asif.hoorayhealth&hl=en&gl=US
 
 # App Features
 Given in the "Hooray_Health_App_Feature_Architecture" PDF file.
