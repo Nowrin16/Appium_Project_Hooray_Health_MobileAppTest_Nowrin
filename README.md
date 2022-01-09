@@ -9,7 +9,9 @@ To know more: https://appium.io/docs/en/about-appium/intro/
 Java.
 
 # Mobile App
-Hooray Health. This is a Hybrid app. Hybrid apps have a wrapper around a "webview" -- a native control that enables interaction with web content. 
+Hooray Health. 
+The Hooray Health app allows patients to conveniently find the nearest location. Each location features hours of operation, services available and contact information.
+The Hooray Health app allows patients to quickly and conveniently find the nearest location. Each location features hours of operation, services available and contact information. Patients can also compare local pharmacies and get free coupons to save on their prescriptions.
 
 # App Features
 Given in the "Hooray_Health_App_Feature_Architecture" PDF file.
