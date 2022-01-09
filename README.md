@@ -12,7 +12,7 @@ Java.
 Hooray Health. This is a Hybrid app. Hybrid apps have a wrapper around a "webview" -- a native control that enables interaction with web content. 
 
 # App Features
-Given in the PDF file.
+Given in the "Hooray_Health_App_Feature_Architecture" PDF file.
 
 # Test Report
-Test results are reported in Test Case File.
+Test results are reported in "Test_Cases" File.
